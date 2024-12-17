@@ -11,3 +11,5 @@
 Para o projeto, pensamos inicialmente em utilizar filtros, dos quais rapidamente abandonamos a ideia por ser complicado de mais criar uma função que removesse tantos fundos diferentes, alguns mais cinzas, outros mais claros; se pensassemos apenas em deixar o verde, havia uma boa chance de não pegar plantas mais "amareladas" ou perto do azul, então também não era uma escolha boa.
 
 O projeto então foi construindo uma arquitetura do zero de ResNet, parecida com a mencionada por K. He em 2015 em seu primeiro artigo sobre o assunto.
+
+<img src="/.github/confusion_matrix.png">
